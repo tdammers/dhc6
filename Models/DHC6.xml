@@ -1487,10 +1487,7 @@
         <type>select</type>
         <object-name>bluntnose</object-name>
         <condition>
-            <equals>
-                <property>sim/multiplay/generic/int[0]</property>
-                <value>1</value>
-            </equals>
+            <property>sim/multiplay/generic/int[0]</property>
         </condition>
     </animation>
 
@@ -1498,10 +1495,9 @@
         <type>select</type>
         <object-name>longnose</object-name>
         <condition>
-            <equals>
+            <not>
                 <property>sim/multiplay/generic/int[0]</property>
-                <value>0</value>
-            </equals>
+            </not>
         </condition>
     </animation>
 
