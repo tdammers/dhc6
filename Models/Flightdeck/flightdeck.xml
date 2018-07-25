@@ -623,8 +623,8 @@
         <path>Aircraft/dhc6/Models/Flightdeck/Instruments/clock/m877.xml</path>
         <offsets>
             <x-m>-3.936</x-m>
-            <y-m>-0.514</y-m>
-            <z-m>0.443</z-m>
+            <y-m>-0.716796</y-m>
+            <z-m>0.230</z-m>
             <pitch-deg>0</pitch-deg>
         </offsets>
     </model>
@@ -678,8 +678,8 @@
       <path>Aircraft/dhc6/Models/Flightdeck/Instruments/radar-alt/radar-alt.xml</path>
       <offsets>
             <x-m>-3.93459</x-m>
-            <y-m>-0.716796</y-m>
-            <z-m>0.179293</z-m>
+            <y-m>-0.510</y-m>
+            <z-m>0.443</z-m>
             <pitch-deg>0</pitch-deg>
         </offsets>
     </model>
